@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jest --watchAll"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RappidDevelopment/NumberConverterKata.git"
+  },
   "author": "Rappid Development, LLC",
   "license": "MIT",
   "dependencies": {
