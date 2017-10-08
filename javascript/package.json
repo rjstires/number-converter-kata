@@ -1,0 +1,14 @@
+{
+  "name": "number-converter-kata",
+  "version": "0.1.0",
+  "description": "An introduction exercise to Test-Driven Development (TDD) with Jest in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "Rappid Development, LLC",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
+}
