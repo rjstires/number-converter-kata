@@ -21,7 +21,7 @@ $ npm install
 ### Run the Tests, Start Coding! 
 To start Jest and run the first failing test, run:
 ```
-$ npm  test
+$ npm test
 ```
 Jest will start in watch mode. When you make a change and save `NumberConverter.js`, Jest will re-run all available tests.
 
