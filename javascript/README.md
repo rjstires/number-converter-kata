@@ -31,3 +31,19 @@ When you have a `green` commit, remove the `skip` from the next test in `NumberC
 
 If you want to only run a specific test, you can do so with `test.only`.
 
+### Run Your Program
+When all tests are green, you can run your program with the following: 
+```
+$ node index.js <int>
+```
+
+Examples:
+```bash
+$ node index.js 6831
+# six thousand eight hundred thirty-one
+```
+
+```bash
+$ node index.js 932131
+# nine hundred thirty-two thousand one hundred thirty-one
+```
