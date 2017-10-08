@@ -14,6 +14,7 @@ public class NumberConverterTest {
         assertThat(NumberConverter.toWords(0), is(equalTo("zero")));
     }
 
+    @Ignore
     @Test
     public void single_digit() {
         assertThat(NumberConverter.toWords(1), is(equalTo("one")));
