@@ -1,3 +1,6 @@
+//- Courtesy of James Grenning (@jwgrenning) and Jeff Langr (@jlangr)
+//- Use this to learn TDD
+
 const toWords = require('./NumberConverter');
 
 test('0', () => {
