@@ -15,5 +15,9 @@
   "dependencies": {
     "jest": "^21.2.1",
     "ramda": "^0.25.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-google": "^0.9.1"
   }
 }
